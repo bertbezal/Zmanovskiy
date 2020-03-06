@@ -1,0 +1,12 @@
+C:\Users\Альберт\source\repos\FileMeneger\FileMeneger\bin\Debug\FileMeneger.exe.config
+C:\Users\Альберт\source\repos\FileMeneger\FileMeneger\bin\Debug\FileMeneger.exe
+C:\Users\Альберт\source\repos\FileMeneger\FileMeneger\bin\Debug\FileMeneger.pdb
+C:\Users\Альберт\source\repos\FileMeneger\FileMeneger\bin\Debug\MetroFramework.dll
+C:\Users\Альберт\source\repos\FileMeneger\FileMeneger\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Альберт\source\repos\FileMeneger\FileMeneger\obj\Debug\FileMeneger.csprojAssemblyReference.cache
+C:\Users\Альберт\source\repos\FileMeneger\FileMeneger\obj\Debug\FileMeneger.Form1.resources
+C:\Users\Альберт\source\repos\FileMeneger\FileMeneger\obj\Debug\FileMeneger.Properties.Resources.resources
+C:\Users\Альберт\source\repos\FileMeneger\FileMeneger\obj\Debug\FileMeneger.csproj.GenerateResource.cache
+C:\Users\Альберт\source\repos\FileMeneger\FileMeneger\obj\Debug\FileMeneger.csproj.CopyComplete
+C:\Users\Альберт\source\repos\FileMeneger\FileMeneger\obj\Debug\FileMeneger.exe
+C:\Users\Альберт\source\repos\FileMeneger\FileMeneger\obj\Debug\FileMeneger.pdb

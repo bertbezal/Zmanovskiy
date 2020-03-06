@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileMeneger", "FileMeneger\FileMeneger.csproj", "{525B60E3-7F52-4E75-A354-471149B5F67F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{525B60E3-7F52-4E75-A354-471149B5F67F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525B60E3-7F52-4E75-A354-471149B5F67F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525B60E3-7F52-4E75-A354-471149B5F67F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525B60E3-7F52-4E75-A354-471149B5F67F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD5A7CAE-98D2-4D60-AE4F-6C03A8BB4331}
+	EndGlobalSection
+EndGlobal
