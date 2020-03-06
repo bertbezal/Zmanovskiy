@@ -1,0 +1,12 @@
+C:\Users\Альберт\source\repos\prikol_za_300\prikol_za_300\bin\Debug\prikol_za_300.exe.config
+C:\Users\Альберт\source\repos\prikol_za_300\prikol_za_300\bin\Debug\prikol_za_300.exe
+C:\Users\Альберт\source\repos\prikol_za_300\prikol_za_300\bin\Debug\prikol_za_300.pdb
+C:\Users\Альберт\source\repos\prikol_za_300\prikol_za_300\bin\Debug\MetroFramework.dll
+C:\Users\Альберт\source\repos\prikol_za_300\prikol_za_300\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Альберт\source\repos\prikol_za_300\prikol_za_300\obj\Debug\prikol_za_300.csprojAssemblyReference.cache
+C:\Users\Альберт\source\repos\prikol_za_300\prikol_za_300\obj\Debug\prikol_za_300.Form1.resources
+C:\Users\Альберт\source\repos\prikol_za_300\prikol_za_300\obj\Debug\prikol_za_300.Properties.Resources.resources
+C:\Users\Альберт\source\repos\prikol_za_300\prikol_za_300\obj\Debug\prikol_za_300.csproj.GenerateResource.cache
+C:\Users\Альберт\source\repos\prikol_za_300\prikol_za_300\obj\Debug\prikol_za_300.csproj.CopyComplete
+C:\Users\Альберт\source\repos\prikol_za_300\prikol_za_300\obj\Debug\prikol_za_300.exe
+C:\Users\Альберт\source\repos\prikol_za_300\prikol_za_300\obj\Debug\prikol_za_300.pdb
